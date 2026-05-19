@@ -1,0 +1,6 @@
+{
+  "name": "Graphic Design Portfolio",
+  "description": "An interactive, premium graphic design work portfolio featuring high-fidelity custom mockups, detailed design specs, a live typographic sandbox, and an AI-powered Creative Brief & Branding partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
